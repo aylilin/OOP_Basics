@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Medical Patient/build/CMakeFiles/app.dir
+C:/Users/Lenovo/Medical Patient/build/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Medical Patient/build/CMakeFiles/rebuild_cache.dir

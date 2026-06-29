@@ -1,4 +1,4 @@
-#include "GPS.HPP"
+#include "gps.hpp"
 #include <iostream>
 
 using namespace std;

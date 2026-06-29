@@ -1,5 +1,5 @@
 #include <iostream>
-#include "GPS.HPP"
+#include "gps.hpp"
 
 using namespace std;
 

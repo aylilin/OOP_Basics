@@ -1,5 +1,5 @@
-#include "CHARACTER.HPP"
-#include "GAME.HPP"
+#include "character.hpp"
+#include "game.hpp"
 #include <iostream>
 
 int main()

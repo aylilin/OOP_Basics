@@ -1,5 +1,5 @@
-#include "GAME.HPP"
-#include "CHARACTER.HPP"
+#include "game.hpp"
+#include "character.hpp"
 #include <iostream>
 
 void Game::addCharacter(const Character& character){

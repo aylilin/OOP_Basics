@@ -35,33 +35,33 @@ This project models patient health records using Object-Oriented Programming.Eac
 
 ## Build & Run
 Clone the repository:
-'''bash
+```bash
 git clone https://github.com/aylilin/OOP_Basics.git
 cd OOP_Basics
-'''
+```
 Choose the project you want to build:
-'''bash
+```bash
 cd "Madical Patient"
-'''
+```
 or
-'''bash
+```bash
 cd "GPS Location"
-'''
+```
 or
-'''bash
+```bash
 cd "Game Character"
-'''
+```
 Create a build directory and compile the project:
-'''bash
+```bash
 mkdir build
 cd build
 cmake ..
 make
-'''
+```
 Run the executable:
-'''bash
+```bash
 ./app
-'''
+```
 
 ## Requirements
 - C++17

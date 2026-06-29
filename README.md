@@ -13,6 +13,15 @@ This project validates GPS coordinates by checking whether the latitude and long
 - Exception Handling(try/catch)
 - Input Validation
 
+## Game Character
+This project models game characters using Object-Oriented Programming.Each character has attributes such as name, health, power, skill, and level.It demonstrates how objects can represent game entities with their own properties.
+
+### Concepts Practiced
+- Classes and Objects
+- Constructors
+- Encapsulation
+- Object Initialization
+
 ## Medical Patient
 This project models patient health records using Object-Oriented Programming.Each patient has predefined vital signs, including blood pressure and heart rate.The program compares these values against predefined normal ranges and reports whether each patient's vital signs are within normal range.
 

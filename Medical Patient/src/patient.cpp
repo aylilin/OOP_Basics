@@ -28,9 +28,9 @@ if(bp < 80 || bp > 120){
 
 void Patient::information() const{
     std::cout << '\t' << "Patient Information" << '\t' << '\n';
-    std::cout << "Name:" << '\t' << name << '\n';
-    std::cout << "Body Temperature:" << '\t' << bodyTemperature << "°C" << '\n';
-    std::cout << "Heart Rate:" << '\t' << heartRate << "bpm" << '\n';
-    std::cout << "Respiratory Rate:" << '\t' << respiratoryRate << "breaths/min" << '\n';
-    std::cout << "Blood Pressure:" << '\t' << bloodPressure <<"mmHg" << '\n';
+    std::cout << "Name : " << name << '\n';
+    std::cout << "Body Temperature : " << bodyTemperature << "°C" << '\n';
+    std::cout << "Heart Rate : " << heartRate << " bpm" << '\n';
+    std::cout << "Respiratory Rate : " << respiratoryRate << " breaths/min" << '\n';
+    std::cout << "Blood Pressure : " << bloodPressure <<"mmHg" << '\n';
 }

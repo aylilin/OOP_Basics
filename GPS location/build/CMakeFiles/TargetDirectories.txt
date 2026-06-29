@@ -1,0 +1,3 @@
+/home/aylin/Desktop/github cleaner/OOP_Basics/GPS location/build/CMakeFiles/app.dir
+/home/aylin/Desktop/github cleaner/OOP_Basics/GPS location/build/CMakeFiles/edit_cache.dir
+/home/aylin/Desktop/github cleaner/OOP_Basics/GPS location/build/CMakeFiles/rebuild_cache.dir
